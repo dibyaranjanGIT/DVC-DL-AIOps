@@ -20,3 +20,8 @@ dvc init
 ```bash
 https://www.kaggle.com/chetankv/dogs-cats-images
 ```
+
+#### To install the setup.py packages
+```bash
+pip install -e .
+```
