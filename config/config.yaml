@@ -9,6 +9,9 @@ artifacts:
   TENSORBOARD_DIR: tensorboard_log_dir
   CALLBACKS_DIR: callbacks
 
+source_data_paths:
+  - ../dataset/training_set/dogs
+  - ../dataset/training_set/cats
 data_paths:
   - data/cats
   - data/dogs
