@@ -15,3 +15,8 @@ source activate ./env
 git init
 dvc init
 ```
+
+#### download data from below
+```bash
+https://www.kaggle.com/chetankv/dogs-cats-images
+```
